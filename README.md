@@ -1,2 +1,0 @@
-# psychic-train
-almoghani.net
